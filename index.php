@@ -23,8 +23,3 @@ if (!isset($_GET['id'])) {
 } 
 
 require_once("templates/footer.php");
-
-
-
-
-
